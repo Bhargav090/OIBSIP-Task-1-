@@ -3,7 +3,7 @@
     margin: 0;
 }
 .maindiv{
-    background: rgba(0, 0, 0, 0.3)url("images/mathsgif.gif");
+    background: rgba(0, 0, 0, 0.3)url("mathsgif.gif");
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
